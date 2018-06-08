@@ -6,8 +6,8 @@
 
 ### What is required
 
-• [Webhook Embed.py](https://www.dropbox.com/s/oku8rvg75yjsyxh/Webhook%20Embed.py?dl=1)
-• Python (Download for [Mac](https://www.python.org/ftp/python/3.6.5/python-3.6.5-macosx10.6.pkg)/[Linux](https://www.python.org/ftp/python/3.6.5/Python-3.6.5.tar.xz)/[Windows](https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64.exe))
+* [Webhook Embed.py](https://www.dropbox.com/s/oku8rvg75yjsyxh/Webhook%20Embed.py?dl=1)
+* Python (Download for [Mac](https://www.python.org/ftp/python/3.6.5/python-3.6.5-macosx10.6.pkg)/[Linux](https://www.python.org/ftp/python/3.6.5/Python-3.6.5.tar.xz)/[Windows](https://www.python.org/ftp/python/3.6.5/python-3.6.5-amd64.exe))
 
 ### Run the file
 
